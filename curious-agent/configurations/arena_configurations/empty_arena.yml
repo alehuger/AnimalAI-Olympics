@@ -1,0 +1,11 @@
+!ArenaConfig
+arenas:
+  -1: !Arena
+    pass_mark: 0
+    t: 2200
+    items:
+    - !Item
+      name: Agent
+      positions:
+      - !Vector3 {x: 1, y: 0, z: 1}
+      rotations: [0]
