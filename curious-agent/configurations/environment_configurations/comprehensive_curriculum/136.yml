@@ -1,0 +1,74 @@
+!ArenaConfig
+arenas:
+  0: !Arena
+    blackouts: []
+    items:
+    - !Item
+      colors: []
+      name: WallTransparent
+      positions:
+      - !Vector3
+        x: 16.27854206491066
+        y: 0
+        z: 23.72145793508934
+      - !Vector3
+        x: 23.115848921708242
+        y: 0
+        z: 23.115848921708242
+      - !Vector3
+        x: 16.224449855411443
+        y: 0
+        z: 16.224449855411443
+      - !Vector3
+        x: 22.67476177737802
+        y: 0
+        z: 17.32523822262198
+      rotations:
+      - 45
+      - 135
+      - 135
+      - 45
+      sizes:
+      - !Vector3
+        x: 9
+        y: 10
+        z: 1
+      - !Vector3
+        x: 7
+        y: 10
+        z: 1
+      - !Vector3
+        x: 9
+        y: 10
+        z: 1
+      - !Vector3
+        x: 6
+        y: 10
+        z: 1
+    - !Item
+      colors: []
+      name: GoodGoal
+      positions:
+      - !Vector3
+        x: 22
+        y: 0
+        z: 20
+      rotations: []
+      sizes:
+      - !Vector3
+        x: 1
+        y: 1
+        z: 1
+    - !Item
+      colors: []
+      name: Agent
+      positions:
+      - !Vector3
+        x: 20
+        y: 0
+        z: 18
+      rotations:
+      - 0
+      sizes: []
+    pass_mark: 0
+    t: 250
