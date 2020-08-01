@@ -1,0 +1,130 @@
+######  LOG REPORT  ###### 
+ 
+MODEL : DT_0.1_1-31_x3
+ENVIRONMENTS SET : detour_curriculum_40
+ 
+ENV NAME : 0.yml 
+SUCCESS : YES, in 8 steps ! 
+ 
+ENV NAME : 1.yml 
+SUCCESS : YES, in 8 steps ! 
+ 
+ENV NAME : 2.yml 
+SUCCESS : YES, in 14 steps ! 
+ 
+ENV NAME : 3.yml 
+SUCCESS : YES, in 19 steps ! 
+ 
+ENV NAME : 4.yml 
+SUCCESS : YES, in 23 steps ! 
+ 
+ENV NAME : 5.yml 
+SUCCESS : YES, in 28 steps ! 
+ 
+ENV NAME : 6.yml 
+SUCCESS : YES, in 28 steps ! 
+ 
+ENV NAME : 7.yml 
+SUCCESS : YES, in 28 steps ! 
+ 
+ENV NAME : 8.yml 
+SUCCESS : YES, in 28 steps ! 
+ 
+ENV NAME : 9.yml 
+SUCCESS : YES, in 28 steps ! 
+ 
+ENV NAME : 10.yml 
+SUCCESS : YES, in 29 steps ! 
+ 
+ENV NAME : 11.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 12.yml 
+SUCCESS : YES, in 12 steps ! 
+ 
+ENV NAME : 13.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 14.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 15.yml 
+SUCCESS : YES, in 29 steps ! 
+ 
+ENV NAME : 16.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 17.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 18.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 19.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 20.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 21.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 22.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 23.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 24.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 25.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 26.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 27.yml 
+SUCCESS : YES, in 78 steps ! 
+ 
+ENV NAME : 28.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 29.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 30.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 31.yml 
+SUCCESS : YES, in 20 steps ! 
+ 
+ENV NAME : 32.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 33.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 34.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 35.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 36.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 37.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 38.yml 
+SUCCESS : YES, in 21 steps ! 
+ 
+ENV NAME : 39.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 40.yml 
+SUCCESS : NO ! 
+ 
+PERCENTAGE SUCCESS : 39.0 %
+TOTAL TIME : 0:12:24

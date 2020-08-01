@@ -1,0 +1,65 @@
+######  LOG REPORT  ###### 
+ 
+MODEL : DT_0.1_1-40_x3_plus_competition_env
+ENVIRONMENTS SET : test_set
+DATE : 01:07-11:12
+ 
+ENV NAME : 0.yml 
+SUCCESS : YES, in 12 steps ! 
+ 
+ENV NAME : 1.yml 
+SUCCESS : YES, in 28 steps ! 
+ 
+ENV NAME : 2.yml 
+SUCCESS : YES, in 20 steps ! 
+ 
+ENV NAME : 3.yml 
+SUCCESS : YES, in 21 steps ! 
+ 
+ENV NAME : 4.yml 
+SUCCESS : YES, in 89 steps ! 
+ 
+ENV NAME : 5.yml 
+SUCCESS : YES, in 73 steps ! 
+ 
+ENV NAME : 6.yml 
+SUCCESS : YES, in 26 steps ! 
+ 
+ENV NAME : 7.yml 
+SUCCESS : YES, in 22 steps ! 
+ 
+ENV NAME : 8.yml 
+SUCCESS : YES, in 27 steps ! 
+ 
+ENV NAME : 9.yml 
+SUCCESS : YES, in 33 steps ! 
+ 
+ENV NAME : 10.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 11.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 12.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 13.yml 
+SUCCESS : YES, in 97 steps ! 
+ 
+ENV NAME : 14.yml 
+SUCCESS : YES, in 27 steps ! 
+ 
+ENV NAME : 15.yml 
+SUCCESS : YES, in 32 steps ! 
+ 
+ENV NAME : 16.yml 
+SUCCESS : YES, in 242 steps ! 
+ 
+ENV NAME : 17.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 18.yml 
+SUCCESS : NO ! 
+ 
+PERCENTAGE SUCCESS : 73.7 %
+TOTAL TIME : 0:03:49

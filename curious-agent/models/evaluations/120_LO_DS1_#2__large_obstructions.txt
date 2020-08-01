@@ -1,0 +1,371 @@
+######  LOG REPORT  ###### 
+ 
+MODEL : 120_LO_DS1_#2
+ENVIRONMENTS SET : large_obstructions
+DATE : 02:07-11:31
+ 
+ENV NAME : 0.yml 
+SUCCESS : YES, in 90 steps ! 
+ 
+ENV NAME : 1.yml 
+SUCCESS : YES, in 71 steps ! 
+ 
+ENV NAME : 2.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 3.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 4.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 5.yml 
+SUCCESS : YES, in 161 steps ! 
+ 
+ENV NAME : 6.yml 
+SUCCESS : YES, in 68 steps ! 
+ 
+ENV NAME : 7.yml 
+SUCCESS : YES, in 84 steps ! 
+ 
+ENV NAME : 8.yml 
+SUCCESS : YES, in 70 steps ! 
+ 
+ENV NAME : 9.yml 
+SUCCESS : YES, in 144 steps ! 
+ 
+ENV NAME : 10.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 11.yml 
+SUCCESS : YES, in 85 steps ! 
+ 
+ENV NAME : 12.yml 
+SUCCESS : YES, in 77 steps ! 
+ 
+ENV NAME : 13.yml 
+SUCCESS : YES, in 55 steps ! 
+ 
+ENV NAME : 14.yml 
+SUCCESS : YES, in 135 steps ! 
+ 
+ENV NAME : 15.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 16.yml 
+SUCCESS : YES, in 102 steps ! 
+ 
+ENV NAME : 17.yml 
+SUCCESS : YES, in 207 steps ! 
+ 
+ENV NAME : 18.yml 
+SUCCESS : YES, in 134 steps ! 
+ 
+ENV NAME : 19.yml 
+SUCCESS : YES, in 59 steps ! 
+ 
+ENV NAME : 20.yml 
+SUCCESS : YES, in 97 steps ! 
+ 
+ENV NAME : 21.yml 
+SUCCESS : YES, in 125 steps ! 
+ 
+ENV NAME : 22.yml 
+SUCCESS : YES, in 116 steps ! 
+ 
+ENV NAME : 23.yml 
+SUCCESS : YES, in 244 steps ! 
+ 
+ENV NAME : 24.yml 
+SUCCESS : YES, in 57 steps ! 
+ 
+ENV NAME : 25.yml 
+SUCCESS : YES, in 98 steps ! 
+ 
+ENV NAME : 26.yml 
+SUCCESS : YES, in 121 steps ! 
+ 
+ENV NAME : 27.yml 
+SUCCESS : YES, in 94 steps ! 
+ 
+ENV NAME : 28.yml 
+SUCCESS : YES, in 171 steps ! 
+ 
+ENV NAME : 29.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 30.yml 
+SUCCESS : YES, in 118 steps ! 
+ 
+ENV NAME : 31.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 32.yml 
+SUCCESS : YES, in 118 steps ! 
+ 
+ENV NAME : 33.yml 
+SUCCESS : YES, in 158 steps ! 
+ 
+ENV NAME : 34.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 35.yml 
+SUCCESS : YES, in 48 steps ! 
+ 
+ENV NAME : 36.yml 
+SUCCESS : YES, in 115 steps ! 
+ 
+ENV NAME : 37.yml 
+SUCCESS : YES, in 79 steps ! 
+ 
+ENV NAME : 38.yml 
+SUCCESS : YES, in 49 steps ! 
+ 
+ENV NAME : 39.yml 
+SUCCESS : YES, in 86 steps ! 
+ 
+ENV NAME : 40.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 41.yml 
+SUCCESS : YES, in 128 steps ! 
+ 
+ENV NAME : 42.yml 
+SUCCESS : YES, in 107 steps ! 
+ 
+ENV NAME : 43.yml 
+SUCCESS : YES, in 102 steps ! 
+ 
+ENV NAME : 44.yml 
+SUCCESS : YES, in 228 steps ! 
+ 
+ENV NAME : 45.yml 
+SUCCESS : YES, in 116 steps ! 
+ 
+ENV NAME : 46.yml 
+SUCCESS : YES, in 108 steps ! 
+ 
+ENV NAME : 47.yml 
+SUCCESS : YES, in 173 steps ! 
+ 
+ENV NAME : 48.yml 
+SUCCESS : YES, in 60 steps ! 
+ 
+ENV NAME : 49.yml 
+SUCCESS : YES, in 79 steps ! 
+ 
+ENV NAME : 50.yml 
+SUCCESS : YES, in 151 steps ! 
+ 
+ENV NAME : 51.yml 
+SUCCESS : YES, in 114 steps ! 
+ 
+ENV NAME : 52.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 53.yml 
+SUCCESS : YES, in 60 steps ! 
+ 
+ENV NAME : 54.yml 
+SUCCESS : YES, in 165 steps ! 
+ 
+ENV NAME : 55.yml 
+SUCCESS : YES, in 160 steps ! 
+ 
+ENV NAME : 56.yml 
+SUCCESS : YES, in 120 steps ! 
+ 
+ENV NAME : 57.yml 
+SUCCESS : YES, in 119 steps ! 
+ 
+ENV NAME : 58.yml 
+SUCCESS : YES, in 225 steps ! 
+ 
+ENV NAME : 59.yml 
+SUCCESS : YES, in 95 steps ! 
+ 
+ENV NAME : 60.yml 
+SUCCESS : YES, in 106 steps ! 
+ 
+ENV NAME : 61.yml 
+SUCCESS : YES, in 98 steps ! 
+ 
+ENV NAME : 62.yml 
+SUCCESS : YES, in 97 steps ! 
+ 
+ENV NAME : 63.yml 
+SUCCESS : YES, in 52 steps ! 
+ 
+ENV NAME : 64.yml 
+SUCCESS : YES, in 189 steps ! 
+ 
+ENV NAME : 65.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 66.yml 
+SUCCESS : YES, in 75 steps ! 
+ 
+ENV NAME : 67.yml 
+SUCCESS : YES, in 115 steps ! 
+ 
+ENV NAME : 68.yml 
+SUCCESS : YES, in 104 steps ! 
+ 
+ENV NAME : 69.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 70.yml 
+SUCCESS : YES, in 109 steps ! 
+ 
+ENV NAME : 71.yml 
+SUCCESS : YES, in 130 steps ! 
+ 
+ENV NAME : 72.yml 
+SUCCESS : YES, in 128 steps ! 
+ 
+ENV NAME : 73.yml 
+SUCCESS : YES, in 232 steps ! 
+ 
+ENV NAME : 74.yml 
+SUCCESS : YES, in 176 steps ! 
+ 
+ENV NAME : 75.yml 
+SUCCESS : YES, in 68 steps ! 
+ 
+ENV NAME : 76.yml 
+SUCCESS : YES, in 140 steps ! 
+ 
+ENV NAME : 77.yml 
+SUCCESS : YES, in 109 steps ! 
+ 
+ENV NAME : 78.yml 
+SUCCESS : YES, in 72 steps ! 
+ 
+ENV NAME : 79.yml 
+SUCCESS : YES, in 89 steps ! 
+ 
+ENV NAME : 80.yml 
+SUCCESS : YES, in 168 steps ! 
+ 
+ENV NAME : 81.yml 
+SUCCESS : YES, in 130 steps ! 
+ 
+ENV NAME : 82.yml 
+SUCCESS : YES, in 148 steps ! 
+ 
+ENV NAME : 83.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 84.yml 
+SUCCESS : YES, in 53 steps ! 
+ 
+ENV NAME : 85.yml 
+SUCCESS : YES, in 115 steps ! 
+ 
+ENV NAME : 86.yml 
+SUCCESS : YES, in 87 steps ! 
+ 
+ENV NAME : 87.yml 
+SUCCESS : YES, in 81 steps ! 
+ 
+ENV NAME : 88.yml 
+SUCCESS : YES, in 113 steps ! 
+ 
+ENV NAME : 89.yml 
+SUCCESS : YES, in 111 steps ! 
+ 
+ENV NAME : 90.yml 
+SUCCESS : YES, in 80 steps ! 
+ 
+ENV NAME : 91.yml 
+SUCCESS : YES, in 55 steps ! 
+ 
+ENV NAME : 92.yml 
+SUCCESS : YES, in 111 steps ! 
+ 
+ENV NAME : 93.yml 
+SUCCESS : YES, in 77 steps ! 
+ 
+ENV NAME : 94.yml 
+SUCCESS : YES, in 110 steps ! 
+ 
+ENV NAME : 95.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 96.yml 
+SUCCESS : YES, in 90 steps ! 
+ 
+ENV NAME : 97.yml 
+SUCCESS : YES, in 139 steps ! 
+ 
+ENV NAME : 98.yml 
+SUCCESS : YES, in 81 steps ! 
+ 
+ENV NAME : 99.yml 
+SUCCESS : YES, in 97 steps ! 
+ 
+ENV NAME : 100.yml 
+SUCCESS : YES, in 70 steps ! 
+ 
+ENV NAME : 101.yml 
+SUCCESS : YES, in 139 steps ! 
+ 
+ENV NAME : 102.yml 
+SUCCESS : YES, in 146 steps ! 
+ 
+ENV NAME : 103.yml 
+SUCCESS : YES, in 104 steps ! 
+ 
+ENV NAME : 104.yml 
+SUCCESS : YES, in 141 steps ! 
+ 
+ENV NAME : 105.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 106.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 107.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 108.yml 
+SUCCESS : YES, in 87 steps ! 
+ 
+ENV NAME : 109.yml 
+SUCCESS : YES, in 65 steps ! 
+ 
+ENV NAME : 110.yml 
+SUCCESS : YES, in 131 steps ! 
+ 
+ENV NAME : 111.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 112.yml 
+SUCCESS : YES, in 109 steps ! 
+ 
+ENV NAME : 113.yml 
+SUCCESS : YES, in 72 steps ! 
+ 
+ENV NAME : 114.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 115.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 116.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 117.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 118.yml 
+SUCCESS : YES, in 108 steps ! 
+ 
+ENV NAME : 119.yml 
+SUCCESS : YES, in 181 steps ! 
+ 
+ENV NAME : 120.yml 
+SUCCESS : YES, in 103 steps ! 
+ 
+PERCENTAGE SUCCESS : 81.8 %
+TOTAL TIME : 0:32:02

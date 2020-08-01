@@ -1,0 +1,89 @@
+######  LOG REPORT  ###### 
+ 
+MODEL : 120_LO_DS1_#2
+ENVIRONMENTS SET : detour_task_competitions
+DATE : 02:07-12:14
+ 
+ENV NAME : 341.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 342.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 343.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 351.yml 
+SUCCESS : YES, in 78 steps ! 
+ 
+ENV NAME : 352.yml 
+SUCCESS : YES, in 86 steps ! 
+ 
+ENV NAME : 353.yml 
+SUCCESS : YES, in 86 steps ! 
+ 
+ENV NAME : 361.yml 
+SUCCESS : YES, in 59 steps ! 
+ 
+ENV NAME : 362.yml 
+SUCCESS : YES, in 108 steps ! 
+ 
+ENV NAME : 363.yml 
+SUCCESS : YES, in 103 steps ! 
+ 
+ENV NAME : 371.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 372.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 373.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 381.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 382.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 383.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 391.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 392.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 393.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 3101.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 3102.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 3103.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 3111.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 3112.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 3113.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 3121.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 3122.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 3123.yml 
+SUCCESS : NO ! 
+ 
+PERCENTAGE SUCCESS : 22.2 %
+TOTAL TIME : 0:10:53

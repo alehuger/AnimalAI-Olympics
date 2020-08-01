@@ -1,0 +1,131 @@
+######  LOG REPORT  ###### 
+ 
+MODEL : DT_0.1_1-40_x3
+ENVIRONMENTS SET : detour_curriculum_40
+DATE : 30:06-13:47
+ 
+ENV NAME : 0.yml 
+SUCCESS : YES, in 8 steps ! 
+ 
+ENV NAME : 1.yml 
+SUCCESS : YES, in 8 steps ! 
+ 
+ENV NAME : 2.yml 
+SUCCESS : YES, in 14 steps ! 
+ 
+ENV NAME : 3.yml 
+SUCCESS : YES, in 19 steps ! 
+ 
+ENV NAME : 4.yml 
+SUCCESS : YES, in 23 steps ! 
+ 
+ENV NAME : 5.yml 
+SUCCESS : YES, in 28 steps ! 
+ 
+ENV NAME : 6.yml 
+SUCCESS : YES, in 28 steps ! 
+ 
+ENV NAME : 7.yml 
+SUCCESS : YES, in 28 steps ! 
+ 
+ENV NAME : 8.yml 
+SUCCESS : YES, in 28 steps ! 
+ 
+ENV NAME : 9.yml 
+SUCCESS : YES, in 30 steps ! 
+ 
+ENV NAME : 10.yml 
+SUCCESS : YES, in 30 steps ! 
+ 
+ENV NAME : 11.yml 
+SUCCESS : YES, in 148 steps ! 
+ 
+ENV NAME : 12.yml 
+SUCCESS : YES, in 12 steps ! 
+ 
+ENV NAME : 13.yml 
+SUCCESS : YES, in 23 steps ! 
+ 
+ENV NAME : 14.yml 
+SUCCESS : YES, in 26 steps ! 
+ 
+ENV NAME : 15.yml 
+SUCCESS : YES, in 28 steps ! 
+ 
+ENV NAME : 16.yml 
+SUCCESS : YES, in 43 steps ! 
+ 
+ENV NAME : 17.yml 
+SUCCESS : YES, in 26 steps ! 
+ 
+ENV NAME : 18.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 19.yml 
+SUCCESS : YES, in 152 steps ! 
+ 
+ENV NAME : 20.yml 
+SUCCESS : YES, in 133 steps ! 
+ 
+ENV NAME : 21.yml 
+SUCCESS : YES, in 83 steps ! 
+ 
+ENV NAME : 22.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 23.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 24.yml 
+SUCCESS : YES, in 222 steps ! 
+ 
+ENV NAME : 25.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 26.yml 
+SUCCESS : YES, in 34 steps ! 
+ 
+ENV NAME : 27.yml 
+SUCCESS : YES, in 95 steps ! 
+ 
+ENV NAME : 28.yml 
+SUCCESS : YES, in 64 steps ! 
+ 
+ENV NAME : 29.yml 
+SUCCESS : YES, in 239 steps ! 
+ 
+ENV NAME : 30.yml 
+SUCCESS : YES, in 62 steps ! 
+ 
+ENV NAME : 31.yml 
+SUCCESS : YES, in 121 steps ! 
+ 
+ENV NAME : 32.yml 
+SUCCESS : YES, in 61 steps ! 
+ 
+ENV NAME : 33.yml 
+SUCCESS : YES, in 129 steps ! 
+ 
+ENV NAME : 34.yml 
+SUCCESS : YES, in 160 steps ! 
+ 
+ENV NAME : 35.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 36.yml 
+SUCCESS : YES, in 56 steps ! 
+ 
+ENV NAME : 37.yml 
+SUCCESS : YES, in 32 steps ! 
+ 
+ENV NAME : 38.yml 
+SUCCESS : YES, in 28 steps ! 
+ 
+ENV NAME : 39.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 40.yml 
+SUCCESS : YES, in 45 steps ! 
+ 
+PERCENTAGE SUCCESS : 85.4 %
+TOTAL TIME : 0:07:07

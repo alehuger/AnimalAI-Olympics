@@ -1,0 +1,371 @@
+######  LOG REPORT  ###### 
+ 
+MODEL : 120_LO_DS1
+ENVIRONMENTS SET : large_obstructions
+DATE : 02:07-01:13
+ 
+ENV NAME : 0.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 1.yml 
+SUCCESS : YES, in 113 steps ! 
+ 
+ENV NAME : 2.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 3.yml 
+SUCCESS : YES, in 124 steps ! 
+ 
+ENV NAME : 4.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 5.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 6.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 7.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 8.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 9.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 10.yml 
+SUCCESS : YES, in 222 steps ! 
+ 
+ENV NAME : 11.yml 
+SUCCESS : YES, in 107 steps ! 
+ 
+ENV NAME : 12.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 13.yml 
+SUCCESS : YES, in 135 steps ! 
+ 
+ENV NAME : 14.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 15.yml 
+SUCCESS : YES, in 48 steps ! 
+ 
+ENV NAME : 16.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 17.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 18.yml 
+SUCCESS : YES, in 201 steps ! 
+ 
+ENV NAME : 19.yml 
+SUCCESS : YES, in 168 steps ! 
+ 
+ENV NAME : 20.yml 
+SUCCESS : YES, in 124 steps ! 
+ 
+ENV NAME : 21.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 22.yml 
+SUCCESS : YES, in 61 steps ! 
+ 
+ENV NAME : 23.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 24.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 25.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 26.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 27.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 28.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 29.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 30.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 31.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 32.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 33.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 34.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 35.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 36.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 37.yml 
+SUCCESS : YES, in 154 steps ! 
+ 
+ENV NAME : 38.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 39.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 40.yml 
+SUCCESS : YES, in 169 steps ! 
+ 
+ENV NAME : 41.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 42.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 43.yml 
+SUCCESS : YES, in 147 steps ! 
+ 
+ENV NAME : 44.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 45.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 46.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 47.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 48.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 49.yml 
+SUCCESS : YES, in 189 steps ! 
+ 
+ENV NAME : 50.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 51.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 52.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 53.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 54.yml 
+SUCCESS : YES, in 170 steps ! 
+ 
+ENV NAME : 55.yml 
+SUCCESS : YES, in 199 steps ! 
+ 
+ENV NAME : 56.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 57.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 58.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 59.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 60.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 61.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 62.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 63.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 64.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 65.yml 
+SUCCESS : YES, in 72 steps ! 
+ 
+ENV NAME : 66.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 67.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 68.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 69.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 70.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 71.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 72.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 73.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 74.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 75.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 76.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 77.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 78.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 79.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 80.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 81.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 82.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 83.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 84.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 85.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 86.yml 
+SUCCESS : YES, in 185 steps ! 
+ 
+ENV NAME : 87.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 88.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 89.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 90.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 91.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 92.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 93.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 94.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 95.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 96.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 97.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 98.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 99.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 100.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 101.yml 
+SUCCESS : YES, in 202 steps ! 
+ 
+ENV NAME : 102.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 103.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 104.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 105.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 106.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 107.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 108.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 109.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 110.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 111.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 112.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 113.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 114.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 115.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 116.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 117.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 118.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 119.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 120.yml 
+SUCCESS : NO ! 
+ 
+PERCENTAGE SUCCESS : 15.7 %
+TOTAL TIME : 0:53:33

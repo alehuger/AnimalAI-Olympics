@@ -1,0 +1,95 @@
+######  LOG REPORT  ###### 
+ 
+MODEL : low_curiosity
+ENVIRONMENTS SET : angular_walls
+DATE : 12:07-18:53
+ 
+ENV NAME : 0.yml 
+SUCCESS : YES, in 15 steps ! 
+ 
+ENV NAME : 1.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 2.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 3.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 4.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 5.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 6.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 7.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 8.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 9.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 10.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 11.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 12.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 13.yml 
+SUCCESS : YES, in 229 steps ! 
+ 
+ENV NAME : 14.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 15.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 16.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 17.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 18.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 19.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 20.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 21.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 22.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 23.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 24.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 25.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 26.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 27.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 28.yml 
+SUCCESS : NO ! 
+ 
+PERCENTAGE SUCCESS : 6.9 %
+TOTAL TIME : 0:13:02

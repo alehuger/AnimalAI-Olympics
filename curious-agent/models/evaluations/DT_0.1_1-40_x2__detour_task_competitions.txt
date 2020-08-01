@@ -1,0 +1,11 @@
+######  LOG REPORT  ###### 
+ 
+MODEL : DT_0.1_1-40_x2
+ENVIRONMENTS SET : detour_task_competitions
+ 
+ENV NAME : 341.yml 
+SUCCESS : NO ! 
+ 
+ENV NAME : 342.yml 
+SUCCESS : NO ! 
+ 
